@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "bean-serial": "^0.1.0",
-    "ble-bean": "^0.8.0",
+    "ble-bean": "^2.1.0",
     "firmata": "git://github.com/monteslu/firmata#nohandshake",
     "noble": "git://github.com/octoblu/noble"
   }
